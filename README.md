@@ -19,7 +19,6 @@ Projeto em **PHP puro** que simula uma loja de apostas para a Mega Sena, com int
 ```
 AtividadeMegaSena/
 ├── imagens/ ← imagens usadas no site
-├── apostas/ (arquivos .txt) ← apostas salvas
 ├── index.php ← página inicial / ponto de entrada
 ├── login.php
 ├── loja.php
