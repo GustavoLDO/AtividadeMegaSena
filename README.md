@@ -63,6 +63,6 @@ AtividadeMegaSena/
   GitHub: [@KalebeMenezesMj](https://github.com/KalebeMenezesMj)
 
 - **Gustavo Lemos**  
-  GitHub: [@GustavoInCode24](https://github.com/GustavoInCode24)
+  GitHub: [@GustavoInCode24](https://github.com/GustavoLDO)
 
 
